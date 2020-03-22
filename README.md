@@ -1,2 +1,2 @@
-# 07-2D-Platrformer
-2d platformer game
+# Project-Template-Godot
+A default Godot project template for MSCH-C220
